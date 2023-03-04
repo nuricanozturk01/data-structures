@@ -1,0 +1,174 @@
+Stack elements
+
+Stack elements
+21 ,
+Stack elements
+21 , 1 ,
+Stack elements
+21 ,
+Stack elements
+21 , 2 ,
+Stack elements
+21 , 2 , 6 ,
+Stack elements
+21 , 12 ,
+Stack elements
+9 ,
+Stack elements
+9 , 7 ,
+Stack elements
+9 , 7 , 8 ,
+Stack elements
+9 , -1 ,
+Stack elements
+-9 ,
+Stack elements
+-9 , 9 ,
+Stack elements
+-9 , 9 , 2 ,
+Stack elements
+-9 , 81 ,
+Stack elements
+-9 , 81 , 3 ,
+Stack elements
+-9 , 81 , 3 , 2 ,
+Stack elements
+-9 , 81 , 9 ,
+Stack elements
+-9 , 72 ,
+Stack elements
+-9 , 72 , 6 ,
+Stack elements
+-9 , 72 , 6 , 8 ,
+Stack elements
+-9 , 72 , 14 ,
+Stack elements
+-9 , 58 ,
+Stack elements
+-9 , 58 , 9 ,
+Stack elements
+-9 , 58 , 9 ,
+Stack elements
+-9 , 58 , 9 ,
+Stack elements
+-9 , 522 ,
+Stack elements
+513 ,
+Stack elements
+513 , 2 ,
+Stack elements
+256.5 ,
+Stack elements
+-256.5 ,
+Stack elements
+-256.5 ,
+Stack elements
+-256.5 ,
+Stack elements
+-256.5 , 1 ,
+Stack elements
+-256.5 , 1 , 7 ,
+Stack elements
+-256.5 , 1 , 7 , 4 ,
+Stack elements
+-256.5 , 1 , 7 , 4 , 12 ,
+Stack elements
+-256.5 , 1 , 7 , -8 ,
+Stack elements
+-256.5 , 1 , -56 ,
+Stack elements
+-256.5 , -56 ,
+Stack elements
+14364 ,
+Stack elements
+14364 , 2 ,
+Stack elements
+14364 , 2 , 2 ,
+Stack elements
+14364 , 4 ,
+Stack elements
+14368 ,
+Stack elements
+14368 , 8 ,
+Stack elements
+14368 , 8 , 35 ,
+Stack elements
+14368 , 280 ,
+Stack elements
+4023040 ,
+Stack elements
+4023040 , 11 ,
+Stack elements
+4023040 , 11 , 2 ,
+Stack elements
+4023040 , 121 ,
+Stack elements
+4023161 ,
+Stack elements
+4023161 , 22 ,
+Stack elements
+4023161 , 22 , 3 ,
+Stack elements
+4023161 , 66 ,
+Stack elements
+265528626 ,
+Stack elements
+265528626 , 7 ,
+Stack elements
+265528626 , 7 , 4 ,
+Stack elements
+265528626 , 7 , 4 , 5 ,
+Stack elements
+265528626 , 7 , 4 , 5 , 7 ,
+Stack elements
+265528626 , 7 , 4 , 35 ,
+Stack elements
+265528626 , 7 , 4 , 35 , 9 ,
+Stack elements
+265528626 , 7 , 4 , 35 , 9 , 4 ,
+Stack elements
+265528626 , 7 , 4 , 35 , 9 , 4 , 4 ,
+Stack elements
+265528626 , 7 , 4 , 35 , 9 , 16 ,
+Stack elements
+265528626 , 7 , 4 , 35 , 144 ,
+Stack elements
+265528626 , 7 , 4 , 179 ,
+Stack elements
+265528626 , 7 , 716 ,
+Stack elements
+265528626 , 5012 ,
+Stack elements
+265523614 ,
+Stack elements
+265523614 , 22 ,
+Stack elements
+265523614 , 22 , 3 ,
+Stack elements
+265523614 , 22 , 3 , 5 ,
+Stack elements
+265523614 , 22 , -2 ,
+Stack elements
+265523614 , 24 ,
+Stack elements
+265523614 , 24 , 11 ,
+Stack elements
+265523614 , 24 , 11 , 7 ,
+Stack elements
+265523614 , 24 , 11 , 7 , 9 ,
+Stack elements
+265523614 , 24 , 11 , 63 ,
+Stack elements
+265523614 , 24 , -52 ,
+Stack elements
+265523614 , 24 , -52 ,
+Stack elements
+265523614 , 24 , -52 , 12 ,
+Stack elements
+265523614 , 24 , -52 ,
+Stack elements
+265523614 , 24 , -52 ,
+Stack elements
+265523614 , -1248 ,
+Stack elements
+265522366 ,

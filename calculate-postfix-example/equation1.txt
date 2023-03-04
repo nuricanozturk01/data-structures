@@ -1,0 +1,79 @@
+Stack elements
+22 ,
+Stack elements
+22 , 3 ,
+Stack elements
+22 , 3 , 6 ,
+Stack elements
+22 , 3 , 6 , 66 ,
+Stack elements
+22 , 3 , 6 , 66 , 1 ,
+Stack elements
+22 , 3 , 6 , 66 , 1 , 2 ,
+Stack elements
+22 , 3 , 6 , 66 , 1 , 2 , 32 ,
+Stack elements
+22 , 3 , 6 , 66 , 1 , 2 , 32 , 13 ,
+Stack elements
+22 , 3 , 6 , 66 , 1 , 2 , 416 ,
+Stack elements
+22 , 3 , 6 , 66 , 1 , 832 ,
+Stack elements
+22 , 3 , 6 , 66 , -831 ,
+Stack elements
+22 , 3 , 6 , 66 , -831 , 4 ,
+Stack elements
+22 , 3 , 6 , 66 , -831 , 4 , 5 ,
+Stack elements
+22 , 3 , 6 , 66 , -831 , -1 ,
+Stack elements
+22 , 3 , 6 , 66 , -831 , -1 , 7 ,
+Stack elements
+22 , 3 , 6 , 66 , -831 , -1 , 7 , 3 ,
+Stack elements
+22 , 3 , 6 , 66 , -831 , -1 , 4 ,
+Stack elements
+22 , 3 , 6 , 66 , -831 , -4 ,
+Stack elements
+22 , 3 , 6 , 66 , -831 , -4 , 10 ,
+Stack elements
+22 , 3 , 6 , 66 , -831 , -4 , 10 , 4 ,
+Stack elements
+22 , 3 , 6 , 66 , -831 , -4 , 6 ,
+Stack elements
+22 , 3 , 6 , 66 , -831 , -4 , 6 , 5 ,
+Stack elements
+22 , 3 , 6 , 66 , -831 , -4 , 6 , 5 , 7 ,
+Stack elements
+22 , 3 , 6 , 66 , -831 , -4 , 6 , -2 ,
+Stack elements
+22 , 3 , 6 , 66 , -831 , -4 , -12 ,
+Stack elements
+22 , 3 , 6 , 66 , -831 , 8 ,
+Stack elements
+22 , 3 , 6 , 66 , -831 , 8 , 34 ,
+Stack elements
+22 , 3 , 6 , 66 , -831 , 0.23529411765 ,
+Stack elements
+22 , 3 , 6 , 66 , -831 , 0.23529411765 , 2 ,
+Stack elements
+22 , 3 , 6 , 66 , -831 , 0.055363321799 ,
+Stack elements
+22 , 3 , 6 , 66 , -15009.9375 ,
+Stack elements
+22 , 3 , 6 , 15075.9375 ,
+Stack elements
+22 , 3 , -15069.9375 ,
+Stack elements
+22 , 15072.9375 ,
+Stack elements
+22 , 15072.9375 , 2 ,
+Stack elements
+22 , 15072.9375 , 2 , 11 ,
+Stack elements
+22 , 15072.9375 , 22 ,
+Stack elements
+22 , 331604.625 ,
+Stack elements
+7295301.75 ,
+

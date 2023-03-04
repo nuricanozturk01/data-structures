@@ -1,0 +1,106 @@
+Stack elements
+2 ,
+Stack elements
+2 , 2 ,
+Stack elements
+2 , 2 , 2 ,
+Stack elements
+2 , 4 ,
+Stack elements
+6 ,
+Stack elements
+6 , 8 ,
+Stack elements
+6 , 8 , 35 ,
+Stack elements
+6 , 280 ,
+Stack elements
+1680 ,
+Stack elements
+1680 , 11 ,
+Stack elements
+1680 , 11 , 2 ,
+Stack elements
+1680 , 121 ,
+Stack elements
+1801 ,
+Stack elements
+1801 , 22 ,
+Stack elements
+1801 , 22 , 3 ,
+Stack elements
+1801 , 66 ,
+Stack elements
+118866 ,
+Stack elements
+118866 , 7 ,
+Stack elements
+118866 , 7 , 4 ,
+Stack elements
+118866 , 7 , 4 , 5 ,
+Stack elements
+118866 , 7 , 4 , 5 , 7 ,
+Stack elements
+118866 , 7 , 4 , 35 ,
+Stack elements
+118866 , 7 , 4 , 35 , 9 ,
+Stack elements
+118866 , 7 , 4 , 35 , 9 , 4 ,
+Stack elements
+118866 , 7 , 4 , 35 , 9 , 4 , 4 ,
+Stack elements
+118866 , 7 , 4 , 35 , 9 , 16 ,
+Stack elements
+118866 , 7 , 4 , 35 , 144 ,
+Stack elements
+118866 , 7 , 4 , 179 ,
+Stack elements
+118866 , 7 , 716 ,
+Stack elements
+118866 , 5012 ,
+Stack elements
+113854 ,
+Stack elements
+113854 , 22 ,
+Stack elements
+113854 , 22 , 3 ,
+Stack elements
+113854 , 22 , 3 , 5 ,
+Stack elements
+113854 , 22 , -2 ,
+Stack elements
+113854 , 24 ,
+Stack elements
+113854 , 24 , 31 ,
+Stack elements
+113854 , 24 , 31 , 7 ,
+Stack elements
+113854 , 24 , 31 , 7 , 9 ,
+Stack elements
+113854 , 24 , 31 , 63 ,
+Stack elements
+113854 , 24 , -32 ,
+Stack elements
+113854 , 24 , -32 ,
+Stack elements
+113854 , 24 , -32 , 12 ,
+Stack elements
+113854 , 24 , -32 ,
+Stack elements
+113854 , 24 , -32 ,
+Stack elements
+113854 , -768 ,
+Stack elements
+113086 ,
+Stack elements
+113086 , 10 ,
+Stack elements
+11308.6 ,
+Stack elements
+11308.6 , 2 ,
+Stack elements
+127884433.96 ,
+Stack elements
+127884433.96 , 44 ,
+Stack elements
+127884389.96 ,
